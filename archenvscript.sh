@@ -20,3 +20,8 @@ bash < ./rvm-install
 #ruby
 rvm install ruby
 gem install bundler
+
+#enable auto start
+sudo systemctl enable redis
+sudo systemctl enable mongodb
+sudo systemctl enable elasticsearch
