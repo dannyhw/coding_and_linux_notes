@@ -1,5 +1,5 @@
 # About
-Generalized setup scripts for my development use.
+Generalized setup scripts for my development use. Also will contain some notes as I feel like adding them.
 
 I have excluded some details due to the repo being public.
 
