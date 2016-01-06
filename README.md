@@ -10,3 +10,11 @@ I created this script to document the setup of a new linux environment for a rub
 It contains the commands for installing java, mongodb, regis, elasticsearch, rvm
 
 It also installs the latest ruby with rvm and installs the bundler gem.
+
+## customrc
+
+My custom bashrc script, this avoids the use of a bash --login session by sourcing the rvm scripts.
+Also this does rvm use for the current version of ruby. You can use seperate rc scripts for each project running different ruby versions.
+
+I recommend renaming this file to .projectnamerc or something similar.
+
