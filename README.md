@@ -14,7 +14,7 @@ It also installs the latest ruby with rvm and installs the bundler gem.
 ## customrc
 
 My custom bashrc script, this avoids the use of a bash --login session by sourcing the rvm scripts.
-Also this does rvm use for the current version of ruby. You can use seperate rc scripts for each project running different ruby versions.
+Also this does rvm use for the current version of ruby. You can use seperate rc scripts for each project running different ruby versions. Use this command to start the terminal /bin/bash --rcfile ~/.custom_rc_name_here
 
 I recommend renaming this file to .projectnamerc or something similar.
 
