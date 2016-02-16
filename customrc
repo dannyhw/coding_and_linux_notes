@@ -12,5 +12,5 @@ PS1='[\u@\h \W]\$ '
 setfont latarcyrheb-sun32
 
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
-source ~/.rvm/scripts/rvm
+source ~/.rvm/scripts/rvm #in ubuntu change this path to /usr/share/rvm/scripts/rvm
 rvm use 2.2.4
